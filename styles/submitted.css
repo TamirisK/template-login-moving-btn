@@ -1,0 +1,22 @@
+.submitted{
+  width: 80%;
+  max-width: 300px;
+  height: 200px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 2px solid #123456;
+  border-radius: 5px;
+  display: block;
+  text-align: center;
+}
+
+.submitted h1{
+  padding: 15px 0;
+}
+
+.submitted i{
+  font-size: 50px;
+  color: #123456;
+}
